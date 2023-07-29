@@ -6,7 +6,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: Flutter/Dart/Firebase/Node.js
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Flutter Development 
 - 🌱 I’m currently learning Flutter 
 
 
