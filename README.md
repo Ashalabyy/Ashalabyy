@@ -1,13 +1,7 @@
 ## Hi there 👋, my name is Ahmed
-
-I'm Ahmed From Egypt
-passionate about Mobile Programming Looking for opportunities as a Flutter
-Developer with an expert team of developers who will help advance my career
-progression to senior positions in the future
-
 - 🔭 I’m currently working on Flutter Development. 
-- 🌱 I’m currently learning Flutter 
-- 💬 Ask me about Ask me about Flutter, Firebase, Tech
+- 🌱 I’m currently learning node.js 
+- 💬 Ask me about Ask me about Flutter, Firebase, and Node.js
 ## :computer: Tech Stack
 <a href="https://www.heroku.com/" target="_blank">
   <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
