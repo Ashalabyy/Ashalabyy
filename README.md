@@ -1,6 +1,9 @@
 ### Hi there 👋, my name is Ahmed
 #### Flutter Developer
-![Flutter Developer](https://firebasestorage.googleapis.com/v0/b/grocieapp.appspot.com/o/products-images%2Fscaled_IMG-20230729-WA0012.jpg?alt=media&token=665e4e49-59bf-40ed-90ea-414d2c38e328)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+
 
 I'm Ahmed From Egypt
 passionate about Mobile Programming Looking for opportunities as a Flutter
