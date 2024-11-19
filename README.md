@@ -3,13 +3,13 @@
 - 🌱 I’m currently learning node.js 
 - 💬 Ask me about Ask me about Flutter, Firebase, and Node.js
 ## :computer: Tech Stack
-<a  target="_blank">
+<a href=""  target="_blank">
   <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
 </a>
-<a target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 </a>
-<a target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
 </a>
 <a href="" target="_blank">
