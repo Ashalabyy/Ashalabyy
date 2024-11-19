@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning node.js 
 - 💬 Ask me about Ask me about Flutter, Firebase, and Node.js
 ## :computer: Tech Stack
-<a href="https://www.heroku.com/" target="_blank">
+<a  target="_blank">
   <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
 </a>
 <a target="_blank">
