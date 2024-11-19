@@ -9,7 +9,7 @@
 <a target="_blank">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 </a>
-<a href="https://firebase.google.com/" target="_blank">
+<a target="_blank">
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
