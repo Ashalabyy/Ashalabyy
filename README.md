@@ -39,6 +39,9 @@ progression to senior positions in the future
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </a>
+  <a href="https://hivedb.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Hive-%23FFC107.svg?style=for-the-badge&logo=hive&logoColor=black" alt="Hive">
+</a>
   
 ## :globe_with_meridians: Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ahmed--shalaby)
