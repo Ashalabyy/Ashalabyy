@@ -12,7 +12,7 @@
 <a target="_blank">
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
 </a>
-<a href="https://www.mongodb.com/" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </a>
 <a href="https://nodejs.org/" target="_blank">
