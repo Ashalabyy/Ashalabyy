@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Ahmed
+## Hi there 👋
 - 🔭 I’m currently working on Flutter Development. 
 - 🌱 I’m currently learning node.js 
 - 💬 Ask me about Ask me about Flutter, Firebase, and Node.js
