@@ -9,7 +9,9 @@ progression to senior positions in the future
 - 🌱 I’m currently learning Flutter 
 - 💬 Ask me about Ask me about Flutter, Firebase, Tech
 ## :computer: Tech Stack
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ahmed--shalaby)
+<a href="https://www.heroku.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+</a>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Ashalabyy) 
 ## :globe_with_meridians: Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ahmed--shalaby)
