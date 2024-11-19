@@ -1,4 +1,4 @@
-## Hi there 👋
+## :milky_way: About Me 
 - 🔭 I’m currently working on Flutter Development. 
 - 🌱 I’m currently learning node.js 
 - 💬 Ask me about Ask me about Flutter, Firebase, and Node.js
